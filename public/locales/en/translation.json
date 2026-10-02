@@ -1,0 +1,665 @@
+{
+  "nav": {
+    "logoAlt": "One Beyond Logo",
+    "ariaLabel": "Main navigation",
+    "menuToggle": "Toggle menu",
+    "cta": "Contact Us",
+    "services": "Services",
+    "strategicConsultancy": "Strategic Consultancy",
+    "artificialIntelligence": "Artificial Intelligence",
+    "softwareDevelopment": "Software Development",
+    "webAppDevelopment": "Web App Development",
+    "mobileAppDevelopment": "Mobile App Development",
+    "dedicatedDeliveryTeams": "Dedicated Delivery Teams",
+    "uxUiDesign": "UX & UI Design",
+    "supportChange": "Support & Change",
+    "clients": "Clients",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "ourApproach": "Our Approach",
+    "faqs": "FAQs",
+    "careers": "Careers",
+    "industries": "Industries",
+    "insights": "Insights"
+  },
+
+  "hero": {
+    "ariaLabel": "Hero section",
+    "label": "Award-winning software development",
+    "headlineTeal": "Software made",
+    "headlineWhite": "to measure.",
+    "subheadline": "We create innovative software and provide leading expertise to bring ideas to life – and achieve your business goals.",
+    "ctaPrimary": "Our Services",
+    "ctaSecondary": "Get in touch"
+  },
+
+  "valueProps": {
+    "heading": "Accelerating your digital future",
+    "body": "We build smart, scalable software for ambitious businesses ready to grow. From strategy to launch and beyond, we're your partner in harnessing next-gen tech to drive real results.",
+    "digitise": {
+      "title": "Digitise your operations",
+      "body": "Empower your team to achieve more every day. Save money by automating and streamlining a host of routine tasks."
+    },
+    "disrupt": {
+      "title": "Disrupt and thrive",
+      "body": "Deliver game-changing innovation. Embrace new apps, AI tools and data analytics to gain a competitive advantage."
+    },
+    "personalise": {
+      "title": "Personalise experiences",
+      "body": "Connect better with customers at every touchpoint. Give them personalised experiences that drive revenue and lasting loyalty."
+    },
+    "scale": {
+      "title": "Scale up easily",
+      "body": "Work in partnership with us as we create agile and scalable cloud-based systems for you – with robust security and compliance features."
+    }
+  },
+
+  "services": {
+    "label": "What we do",
+    "heading": "Empowering your growth",
+    "subheading": "Purpose-built, scalable software solutions and expert delivery teams to help ambitious businesses grow.",
+    "viewAll": "See full services",
+    "ai": { "title": "Artificial Intelligence" },
+    "webApp": { "title": "Web App Development" },
+    "mobile": { "title": "Mobile Development" },
+    "dedicatedTeams": { "title": "Dedicated Delivery Teams" },
+    "erpCrm": { "title": "ERP/CRM Systems" },
+    "dataAnalytics": { "title": "Data and Analytics" },
+    "systemsIntegration": { "title": "Systems Integration" },
+    "uxUi": { "title": "UX & UI Design" },
+    "discoveryWorkshops": { "title": "Discovery Workshops" },
+    "security": { "title": "Systems Security" },
+    "appSupport": { "title": "Application Support" },
+    "migrations": { "title": "Application Migrations" }
+  },
+
+  "servicesPage": {
+    "label": "What we do",
+    "heading": "Expert software services, built around you.",
+    "subheading": "From strategy and design to development, data, and ongoing support — we bring the full spectrum of expertise your business needs to thrive in a digital world.",
+    "learnMore": "Learn more",
+    "cta": {
+      "heading": "Ready to get started?",
+      "body": "Talk to our team about your challenges and ambitions. We'll craft the right solution for your business.",
+      "button": "Start a conversation"
+    },
+    "cards": {
+      "ai": {
+        "title": "Artificial Intelligence",
+        "desc": "We embed AI thoughtfully into your products and processes — from intelligent automation to bespoke machine learning models and generative AI solutions."
+      },
+      "dev": {
+        "title": "Software Development",
+        "desc": "Bespoke software built to exacting standards. We design, build, and test solutions that solve real business problems and stand the test of time."
+      },
+      "web": {
+        "title": "Web App Development",
+        "desc": "Responsive, performant web applications using the latest technologies. From MVPs to enterprise platforms, we deliver at every scale."
+      },
+      "mobile": {
+        "title": "Mobile App Development",
+        "desc": "iOS and Android apps that users love. We create intuitive, high-performance mobile experiences aligned with your brand and business goals."
+      },
+      "teams": {
+        "title": "Dedicated Delivery Teams",
+        "desc": "Extend your team with skilled engineers, designers, and delivery managers who integrate seamlessly with your culture and ways of working."
+      },
+      "ux": {
+        "title": "UX & UI Design",
+        "desc": "Human-centred design that drives engagement. We craft experiences that are beautiful, accessible, and conversion-focused."
+      },
+      "data": {
+        "title": "Data and Analytics",
+        "desc": "Turn your data into a strategic asset. We build data pipelines, dashboards, and analytics solutions that surface the insights you need."
+      },
+      "integration": {
+        "title": "Systems Integration",
+        "desc": "Connect your platforms and tools for seamless data flow. We integrate third-party APIs, legacy systems, and modern SaaS applications."
+      },
+      "strategy": {
+        "title": "Strategic Consultancy",
+        "desc": "Discovery workshops, technology roadmaps, and expert guidance to align your digital investments with your commercial objectives."
+      },
+      "security": {
+        "title": "Systems Security",
+        "desc": "Protect your digital estate with robust security assessments, penetration testing, and ongoing monitoring services."
+      },
+      "support": {
+        "title": "Support & Change",
+        "desc": "Managed support services and change management to keep your systems running at their best, long after go-live."
+      },
+      "migrations": {
+        "title": "Application Migrations",
+        "desc": "Seamlessly migrate legacy applications to modern cloud infrastructure with minimal disruption and maximum efficiency."
+      }
+    }
+  },
+
+  "serviceDetail": {
+    "backToServices": "Back to Services",
+    "cta": "Discuss your project",
+    "benefitsHeading": "Key benefits",
+    "processHeading": "How we work",
+    "notFound": {
+      "heading": "Service not found",
+      "body": "We couldn't find the service you're looking for. Please browse our full services list.",
+      "cta": "View all services"
+    },
+    "ctaSection": {
+      "heading": "Let's talk about your project",
+      "body": "Our team would love to hear about your challenges and goals. Get in touch to start a conversation.",
+      "caseStudies": "See our work"
+    },
+    "process": {
+      "step1": { "title": "Discovery", "desc": "We start by understanding your business, goals, users, and technical landscape." },
+      "step2": { "title": "Design & Planning", "desc": "We create detailed plans, wireframes, and architecture to guide every decision." },
+      "step3": { "title": "Build & Iterate", "desc": "Agile delivery in short sprints with regular demos and stakeholder feedback." },
+      "step4": { "title": "Launch & Support", "desc": "A smooth go-live followed by ongoing monitoring, optimisation, and support." }
+    },
+    "ai": {
+      "heading": "Artificial Intelligence",
+      "subheading": "Harness the power of AI to transform your business — from intelligent automation to bespoke machine learning and generative AI solutions.",
+      "bodyHeading": "Building AI that works for your business",
+      "body1": "We believe AI should be practical, purposeful, and aligned to your specific business needs. Whether you're looking to automate repetitive processes, surface insights from your data, or build AI-powered products, we have the expertise to deliver.",
+      "body2": "Our team of AI engineers and data scientists have delivered AI solutions across multiple sectors, including media, retail, healthcare, and financial services. We work in close partnership with your team throughout.",
+      "benefit1": "Reduce operational costs through intelligent automation",
+      "benefit2": "Improve decision-making with predictive analytics",
+      "benefit3": "Enhance customer experiences with personalisation",
+      "benefit4": "Stay ahead of the competition with generative AI"
+    },
+    "softwareDev": {
+      "heading": "Software Development",
+      "subheading": "Bespoke software built to exacting standards — solving your real business problems, on time and within budget.",
+      "bodyHeading": "Software that fits your business perfectly",
+      "body1": "Off-the-shelf software rarely fits perfectly. We design and build custom software solutions that align precisely with your business processes, giving you a genuine competitive advantage.",
+      "body2": "We follow rigorous engineering practices — automated testing, continuous integration, and code reviews — to ensure what we deliver is reliable, maintainable, and built to last.",
+      "benefit1": "Purpose-built to your exact requirements",
+      "benefit2": "Rigorous QA and automated testing throughout",
+      "benefit3": "Scalable architecture that grows with you",
+      "benefit4": "Full documentation and knowledge transfer"
+    },
+    "webApp": {
+      "heading": "Web App Development",
+      "subheading": "Responsive, performant web applications built for real users — from MVPs to enterprise platforms.",
+      "bodyHeading": "Web applications users love to use",
+      "body1": "We build web applications that are fast, accessible, and a joy to use. Whether you need a customer-facing portal, an internal tool, or a complex SaaS platform, we bring the same rigour and expertise to every project.",
+      "body2": "Our front-end and back-end engineers work together in a single, cross-functional team, ensuring seamless integration and a consistent user experience across every touchpoint.",
+      "benefit1": "Fast, responsive interfaces on any device",
+      "benefit2": "Accessible by design (WCAG 2.1 AA)",
+      "benefit3": "API-first architecture for maximum flexibility",
+      "benefit4": "Continuous delivery pipelines for rapid iteration"
+    },
+    "mobileApp": {
+      "heading": "Mobile App Development",
+      "subheading": "Native and cross-platform mobile apps for iOS and Android that your users will love.",
+      "bodyHeading": "Mobile experiences that set you apart",
+      "body1": "Great mobile apps are built with users at their heart. We design and develop iOS and Android applications that are intuitive, performant, and beautifully crafted.",
+      "body2": "We can deliver fully native apps for maximum performance or cross-platform solutions using React Native to maximise code reuse and reduce time to market.",
+      "benefit1": "Native iOS and Android development",
+      "benefit2": "Cross-platform React Native expertise",
+      "benefit3": "Offline-first and low-bandwidth support",
+      "benefit4": "App Store and Play Store submission"
+    },
+    "dedicatedTeams": {
+      "heading": "Dedicated Delivery Teams",
+      "subheading": "Extend your team with skilled engineers, designers, and delivery managers who truly feel part of your organisation.",
+      "bodyHeading": "A team that feels like your own",
+      "body1": "Finding and retaining great technical talent is one of the hardest challenges for ambitious businesses. Our dedicated delivery teams give you immediate access to experienced engineers, designers, and delivery managers at the scale you need.",
+      "body2": "We invest heavily in onboarding, cultural fit, and long-term relationships. Our teams don't just write code — they understand your business and proactively contribute to your success.",
+      "benefit1": "Scale up or down as your needs evolve",
+      "benefit2": "Deep cultural integration with your team",
+      "benefit3": "Consistent talent with low turnover",
+      "benefit4": "Full transparency with no hidden costs"
+    },
+    "uxUi": {
+      "heading": "UX & UI Design",
+      "subheading": "Human-centred design that drives engagement, increases conversion, and delights your users.",
+      "bodyHeading": "Design that works harder for your business",
+      "body1": "Great design is more than aesthetics. We take a research-led, human-centred approach to design — understanding your users deeply before crafting interfaces that guide them effortlessly to their goals.",
+      "body2": "Our designers work hand-in-hand with engineers throughout the entire delivery process, ensuring that design intent is faithfully translated into the final product.",
+      "benefit1": "User research and usability testing",
+      "benefit2": "Accessible design (WCAG 2.1 AA)",
+      "benefit3": "Consistent design systems and component libraries",
+      "benefit4": "Measurable improvements in user engagement"
+    },
+    "dataAnalytics": {
+      "heading": "Data and Analytics",
+      "subheading": "Turn your data into your most valuable asset — with pipelines, dashboards, and insights that drive confident decisions.",
+      "bodyHeading": "Data that drives real decisions",
+      "body1": "Most businesses are sitting on a goldmine of untapped data. We help you unlock its value through robust data engineering, powerful analytics platforms, and clear, actionable visualisations.",
+      "body2": "Whether you need a single source of truth for your business metrics or a real-time analytics platform, we have the expertise to design, build, and operate it.",
+      "benefit1": "Unified data platforms and warehouses",
+      "benefit2": "Real-time dashboards and reporting",
+      "benefit3": "Predictive analytics and forecasting",
+      "benefit4": "Data governance and compliance frameworks"
+    },
+    "systemsIntegration": {
+      "heading": "Systems Integration",
+      "subheading": "Connect your platforms and tools to eliminate data silos and unlock the full potential of your technology stack.",
+      "bodyHeading": "One seamless ecosystem, not a patchwork",
+      "body1": "Modern businesses rely on dozens of different tools, platforms, and systems. When they don't talk to each other, inefficiency and errors multiply. We design and build robust integration solutions that keep everything in sync.",
+      "body2": "From connecting SaaS platforms via APIs to building custom middleware that bridges legacy systems with modern cloud services, we have the expertise to handle complex integration challenges.",
+      "benefit1": "Eliminate manual data entry and duplication",
+      "benefit2": "Real-time data synchronisation across systems",
+      "benefit3": "Robust error handling and monitoring",
+      "benefit4": "Scalable event-driven architectures"
+    },
+    "strategicConsultancy": {
+      "heading": "Strategic Consultancy",
+      "subheading": "Expert guidance to align your digital investments with your commercial ambitions — from discovery to roadmap.",
+      "bodyHeading": "Strategy that moves from insight to action",
+      "body1": "Digital transformation starts with clarity. Our strategic consultancy service combines deep technical expertise with commercial acumen to help you make the right technology decisions for your business.",
+      "body2": "We run structured discovery workshops, conduct technology audits, and produce actionable roadmaps that give you a clear path to your goals — and help you prioritise where to invest first.",
+      "benefit1": "Structured discovery workshops",
+      "benefit2": "Technology audits and recommendations",
+      "benefit3": "Prioritised digital transformation roadmaps",
+      "benefit4": "Vendor and technology selection guidance"
+    },
+    "systemsSecurity": {
+      "heading": "Systems Security",
+      "subheading": "Protect your digital estate with proactive security assessments, penetration testing, and ongoing monitoring.",
+      "bodyHeading": "Security built in, not bolted on",
+      "body1": "Cyber threats are growing in frequency and sophistication. We help you understand your security posture, identify vulnerabilities, and implement the controls needed to protect your business.",
+      "body2": "From security-conscious development practices to formal penetration testing and incident response planning, we take a comprehensive approach to keeping your systems and data safe.",
+      "benefit1": "Penetration testing and vulnerability assessments",
+      "benefit2": "Secure coding standards and code reviews",
+      "benefit3": "Security monitoring and alerting",
+      "benefit4": "GDPR and compliance support"
+    },
+    "supportChange": {
+      "heading": "Support & Change",
+      "subheading": "Reliable managed support and proactive change management to keep your systems running at peak performance.",
+      "bodyHeading": "Always on, always improving",
+      "body1": "Going live is just the beginning. Our managed support service ensures your systems remain available, performant, and evolving long after initial delivery.",
+      "body2": "We offer flexible SLA-backed support packages, proactive monitoring, and a dedicated engineering team that understands your systems inside and out.",
+      "benefit1": "SLA-backed support packages",
+      "benefit2": "24/7 monitoring and alerting",
+      "benefit3": "Rapid incident response and resolution",
+      "benefit4": "Proactive maintenance and optimisation"
+    },
+    "appMigrations": {
+      "heading": "Application Migrations",
+      "subheading": "Seamlessly migrate legacy applications to modern cloud infrastructure with minimal disruption.",
+      "bodyHeading": "Modernise without the risk",
+      "body1": "Legacy applications represent significant business risk — they're hard to maintain, expensive to operate, and prevent you from innovating at pace. We help you modernise with confidence.",
+      "body2": "Our migration specialists plan and execute complex migrations using a proven methodology that minimises disruption to your operations and ensures data integrity throughout.",
+      "benefit1": "Risk-free migration planning and execution",
+      "benefit2": "Zero data loss guarantee",
+      "benefit3": "Cloud-native architecture adoption",
+      "benefit4": "Parallel running and comprehensive testing"
+    },
+    "erpCrm": {
+      "heading": "ERP / CRM Systems",
+      "subheading": "Implement, extend, and integrate ERP and CRM platforms to streamline your business operations.",
+      "bodyHeading": "Business systems that actually work for you",
+      "body1": "ERP and CRM systems are the backbone of many businesses — but they're only as effective as their implementation. We help you get the most from leading platforms or build bespoke solutions when off-the-shelf doesn't cut it.",
+      "body2": "From requirements gathering and system selection to configuration, integration, and training, we manage the entire journey to ensure a successful, adopted system.",
+      "benefit1": "Requirements gathering and system selection",
+      "benefit2": "Configuration, customisation, and integration",
+      "benefit3": "Data migration from legacy systems",
+      "benefit4": "Training and change management support"
+    }
+  },
+
+  "caseStudies": {
+    "label": "Our work",
+    "heading": "Happy clients...",
+    "happyClients": "Trusted by leading brands",
+    "readMore": "Read more",
+    "tagDedicatedTeam": "Dedicated Delivery Team",
+    "tagWebApp": "Web App Development",
+    "tagModernisation": "Software Modernisation",
+    "tagMobile": "Mobile App Development",
+    "haymarket": {
+      "title": "Haymarket — Global Media and Publications",
+      "desc": "Long-running dedicated delivery team partnership supporting one of the UK's leading media companies."
+    },
+    "infinitas": {
+      "title": "Infinitas Learning — Multi-Platform Blended Learning",
+      "desc": "Building a next-generation multi-platform blended learning solution for international education markets."
+    },
+    "fineRare": {
+      "title": "Fine + Rare — Worldwide Luxury Wine Marketplace",
+      "desc": "Creating a best-in-class digital marketplace for the global fine wine and luxury spirits market."
+    },
+    "costa": {
+      "title": "Costa Express — Evolving Infrastructure and Systems",
+      "desc": "Modernising the software stack and infrastructure powering Costa Express self-serve coffee machines."
+    },
+    "yeo": {
+      "title": "Yeo Messaging — Secure Business Messaging Platform",
+      "desc": "Building a bespoke, end-to-end encrypted messaging application designed for enterprise security."
+    },
+    "testimonialText": "Anyone looking for bespoke software development that wants a collaborative, flexible and agile approach to working — I couldn't recommend One Beyond enough.",
+    "testimonialName": "Laura S",
+    "testimonialRole": "IT Solutions Partner, Haymarket Media Group"
+  },
+
+  "caseStudiesPage": {
+    "label": "Our work",
+    "heading": "Building software that makes a real difference.",
+    "subheading": "We've partnered with ambitious businesses across many sectors to deliver software that creates genuine competitive advantage and lasting value.",
+    "filterAll": "All projects",
+    "filterLabel": "Filter case studies by category",
+    "cta": {
+      "heading": "Inspired by what you've seen?",
+      "body": "Let's talk about what we can achieve together. Our team is ready to discuss your goals and the best path forward."
+    }
+  },
+
+  "industries": {
+    "label": "Industries",
+    "heading": "We're experienced across all verticals and public sectors, from start-ups to large enterprises.",
+    "body": "Our deep industry knowledge means your goals and our solutions are the perfect match.",
+    "seeAll": "See all industries",
+    "readMore": "Read more",
+    "sme": { "title": "Small / Medium Enterprises" },
+    "hospitality": { "title": "Hospitality Industry" },
+    "government": { "title": "Government & Public Sector" },
+    "sport": { "title": "Sport and Leisure" },
+    "largeEnterprise": { "title": "Large Enterprises" },
+    "nonprofits": { "title": "Non-profits" },
+    "fintech": { "title": "FinTech & Finance" },
+    "healthcare": { "title": "Healthcare" }
+  },
+
+  "cta": {
+    "heading": "Ready to talk?",
+    "body": "What's your current challenge or opportunity? Our experienced team will be glad to help. We'll explore your goals, discuss the best options – and then deliver outstanding solutions, on time and within budget.",
+    "phone": "01252 235 422",
+    "formAriaLabel": "Contact form",
+    "formTitle": "Get in touch",
+    "form": {
+      "name": "Your name",
+      "namePlaceholder": "Jane Smith",
+      "email": "Email address",
+      "emailPlaceholder": "jane@yourcompany.com",
+      "message": "Tell us about your project",
+      "messagePlaceholder": "Describe your challenge or opportunity...",
+      "submit": "Send message",
+      "successText": "Thank you! We've received your message and will be in touch very soon."
+    }
+  },
+
+  "about": {
+    "label": "About us",
+    "heading": "We're One Beyond — an award-winning software consultancy.",
+    "subheading": "For over 20 years we've been helping businesses harness technology to grow, innovate, and compete in an ever-changing world.",
+    "mission": {
+      "label": "Our mission",
+      "heading": "We exist to help businesses achieve more through great software.",
+      "body1": "One Beyond was founded on a simple belief: that great software, built by great people, can transform any business. Over two decades later, that belief is at the heart of everything we do.",
+      "body2": "We work with clients ranging from start-ups to FTSE 100 enterprises, bringing the same passion, rigour, and collaboration to every engagement — however large or small.",
+      "cta": "Work with us",
+      "quote": "\"Great software, built by great people, can transform any business.\"",
+      "quoteAttrib": "One Beyond founding principle"
+    },
+    "stats": {
+      "years": { "number": "20+", "label": "Years in business" },
+      "clients": { "number": "200+", "label": "Happy clients" },
+      "projects": { "number": "500+", "label": "Projects delivered" },
+      "team": { "number": "100+", "label": "Expert team members" }
+    },
+    "values": {
+      "label": "Our values",
+      "heading": "What drives us every day.",
+      "subheading": "Our values aren't words on a wall — they guide how we work with clients and with each other.",
+      "collaboration": {
+        "title": "Collaboration",
+        "body": "We work as true partners with our clients, not just suppliers. Your success is our success."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "body": "We stay at the leading edge of technology so our clients always benefit from the best approaches."
+      },
+      "quality": {
+        "title": "Quality",
+        "body": "We take pride in everything we deliver — from the code we write to the advice we give."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "body": "No surprises. We communicate openly and honestly throughout every project."
+      }
+    },
+    "approach": {
+      "label": "Our approach",
+      "heading": "How we work.",
+      "body1": "We've spent over 20 years refining our delivery approach, drawing on our experience across hundreds of projects. The result is a proven methodology that consistently delivers great outcomes.",
+      "body2": "We're agile by nature — iterating quickly, involving stakeholders regularly, and adapting as we learn more. But we're also disciplined, ensuring quality and governance are never compromised.",
+      "step1": { "title": "Discover", "desc": "We invest time upfront to deeply understand your goals, users, and technical context." },
+      "step2": { "title": "Design", "desc": "We create clear plans, wireframes, and technical architecture before writing a line of code." },
+      "step3": { "title": "Build", "desc": "Agile delivery in 2-week sprints with regular demos and continuous feedback." },
+      "step4": { "title": "Test", "desc": "Rigorous automated and manual testing ensures what we deliver meets the highest standards." },
+      "step5": { "title": "Launch & Support", "desc": "A smooth go-live and ongoing support to ensure long-term success." }
+    },
+    "industries": {
+      "heading": "Sectors we serve.",
+      "body": "We've built software for clients across a wide range of industries. Our experience means we can hit the ground running, whatever your sector."
+    },
+    "faq": {
+      "label": "FAQs",
+      "heading": "Common questions answered.",
+      "q1": "Where are you based?",
+      "a1": "Our main office is in Farnborough, Hampshire, with a London presence. We work with clients across the UK and internationally, with hybrid and remote delivery models.",
+      "q2": "How do you price your projects?",
+      "a2": "We offer fixed-price engagements for well-defined projects and time-and-materials for more exploratory or ongoing work. We're transparent about costs from day one.",
+      "q3": "How quickly can you start?",
+      "a3": "We can typically start discovery and planning within a couple of weeks of an agreement being reached. Resourcing timelines depend on the specific skills required.",
+      "q4": "Do you work with start-ups?",
+      "a4": "Absolutely. We love working with ambitious start-ups and scale-ups. We're experienced at moving quickly, being pragmatic about technical decisions, and delivering maximum value within budget.",
+      "q5": "Do you offer ongoing support after launch?",
+      "a5": "Yes — we offer flexible managed support packages to suit every need, from ad-hoc bug fixes to fully managed SLA-backed support. We also run dedicated delivery team engagements for long-term partnership.",
+      "q6": "What technologies do you work with?",
+      "a6": "We're technology-agnostic and select the best tool for each job. Common technologies include .NET, Node.js, React, React Native, Python, Azure, AWS, and many more."
+    },
+    "cta": {
+      "heading": "Want to know more?",
+      "body": "Get in touch to learn more about our team, our culture, and how we can help your business.",
+      "careers": "View open roles"
+    }
+  },
+
+  "careers": {
+    "label": "Join us",
+    "heading": "Come build great things with us.",
+    "subheading": "We're a team of talented engineers, designers, and delivery professionals who love what we do. If you're ambitious, collaborative, and driven by quality — we'd love to hear from you.",
+    "seeRoles": "See open roles",
+    "whyLabel": "Why One Beyond",
+    "whyHeading": "A great place to build your career.",
+    "whySubheading": "We believe in investing in our people, giving them the tools and environment they need to do their best work.",
+    "openRoles": "Open roles",
+    "filterLabel": "Filter by department",
+    "noRoles": "No roles match your current filter. Try selecting 'All'.",
+    "apply": "Apply now",
+    "speculative": "Don't see a role that fits? We're always interested in hearing from talented people.",
+    "speculativeCta": "Send a speculative application",
+    "cultureQuote": "\"We hire curious, collaborative people who are passionate about their craft — and then we give them the environment and trust to do great work.\"",
+    "filter": {
+      "all": "All departments",
+      "engineering": "Engineering",
+      "design": "Design",
+      "delivery": "Delivery"
+    },
+    "perks": {
+      "flexible": {
+        "title": "Flexible working",
+        "desc": "We support hybrid and flexible working so you can do your best work in the way that suits you."
+      },
+      "remote": {
+        "title": "Remote-friendly",
+        "desc": "Many of our team work fully remotely. We're set up for distributed collaboration from day one."
+      },
+      "growth": {
+        "title": "Career growth",
+        "desc": "Clear progression paths, regular 1:1s, and a learning budget to invest in your development."
+      },
+      "health": {
+        "title": "Health & wellbeing",
+        "desc": "Private healthcare, mental health support, and regular wellness initiatives for all team members."
+      },
+      "team": {
+        "title": "Great team",
+        "desc": "Work alongside talented, collaborative people who genuinely enjoy what they do."
+      },
+      "impact": {
+        "title": "Real impact",
+        "desc": "Work on meaningful projects for clients who care about quality, and see the difference your work makes."
+      }
+    },
+    "jobs": {
+      "seniorDev": {
+        "title": "Senior Software Engineer",
+        "desc": "We're looking for a Senior Software Engineer to join one of our dedicated delivery teams. You'll work on complex, greenfield and brownfield projects for leading brands."
+      },
+      "uxDesigner": {
+        "title": "UX/UI Designer",
+        "desc": "Join our design team to craft exceptional user experiences for web and mobile products. You'll be involved from research and discovery through to delivery."
+      },
+      "projectManager": {
+        "title": "Delivery Manager",
+        "desc": "Lead cross-functional delivery teams, manage client relationships, and ensure projects are delivered to the highest standard on time and within budget."
+      },
+      "dataEngineer": {
+        "title": "Data Engineer",
+        "desc": "Design and build robust data pipelines, warehouses, and analytics solutions for a range of clients across different sectors."
+      }
+    },
+    "cta": {
+      "heading": "Don't see a perfect fit?",
+      "body": "We're always keen to hear from talented people. Drop us a line and tell us about yourself."
+    }
+  },
+
+  "contact": {
+    "label": "Get in touch",
+    "heading": "Let's talk about what you need.",
+    "subheading": "Whether you have a clear brief or just a seed of an idea, we'd love to hear from you. Our team will respond within one business day.",
+    "info": {
+      "heading": "We'd love to hear from you",
+      "body": "Reach out by phone, email, or use the form. Whichever you prefer, you'll hear back from a real person quickly.",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "addressLabel": "Head office",
+      "address": "50-58 Victoria Road, Farnborough, Hampshire, GU14 7PG"
+    },
+    "offices": {
+      "heading": "Our offices",
+      "farnborough": {
+        "name": "Farnborough (HQ)",
+        "address": "50-58 Victoria Road\nFarnborough\nHampshire, GU14 7PG"
+      },
+      "london": {
+        "name": "London",
+        "address": "One Canada Square\nCanary Wharf\nLondon, E14 5AB"
+      }
+    },
+    "form": {
+      "heading": "Send us a message",
+      "company": "Company name",
+      "companyPlaceholder": "Your company",
+      "phone": "Phone number",
+      "phonePlaceholder": "+44 1234 567890",
+      "service": "Service of interest",
+      "servicePlaceholder": "Select a service...",
+      "serviceOther": "Other / Not sure",
+      "consent": "I agree to One Beyond processing my data in accordance with the Privacy Policy.",
+      "successHeading": "Message sent!",
+      "successBody": "Thank you for reaching out. A member of our team will be in touch within one business day."
+    }
+  },
+
+  "blog": {
+    "label": "Insights",
+    "heading": "Ideas, perspectives, and expertise.",
+    "subheading": "Stay up to date with thinking from the One Beyond team — on AI, software development, design, and the future of digital business.",
+    "featured": "Featured article",
+    "allPosts": "Latest articles",
+    "readPost": "Read article",
+    "readTime": "{{n}} min read",
+    "noResults": "No articles found in this category.",
+    "filterLabel": "Filter by category",
+    "catAll": "All",
+    "catAi": "AI & Data",
+    "catEngineering": "Engineering",
+    "catDesign": "Design",
+    "catDelivery": "Delivery",
+    "newsletter": {
+      "heading": "Stay in the loop",
+      "body": "Get the latest articles, insights, and industry thinking delivered straight to your inbox.",
+      "subscribe": "Subscribe",
+      "ariaLabel": "Newsletter signup"
+    },
+    "posts": {
+      "aiDevelopment": {
+        "title": "How we're embedding AI into every software project",
+        "excerpt": "AI is no longer a standalone discipline — it's becoming a core part of how we build software. Here's how we're integrating AI tools and thinking into our development process."
+      },
+      "cloudMigration": {
+        "title": "The pragmatic guide to cloud migration",
+        "excerpt": "Moving to the cloud isn't just a technical challenge — it's a business transformation. We share the lessons we've learned from dozens of successful migrations."
+      },
+      "uxTrends": {
+        "title": "UX trends shaping digital products in 2025",
+        "excerpt": "From AI-powered personalisation to accessible-first design, here are the UX trends we're seeing shape the digital products that users actually love."
+      },
+      "dedicatedTeams": {
+        "title": "Why dedicated delivery teams outperform project-by-project staffing",
+        "excerpt": "The case for long-term team partnerships over traditional staff augmentation — and how to make them work for your business."
+      },
+      "dataStrategy": {
+        "title": "Building a data strategy that actually delivers value",
+        "excerpt": "Many businesses have more data than they know what to do with. We explore how to build a pragmatic data strategy that drives real commercial outcomes."
+      },
+      "agileDelivery": {
+        "title": "Agile delivery: beyond the buzzwords",
+        "excerpt": "Agile has become so ubiquitous that the term has lost much of its meaning. We break down what genuine agile delivery looks like in practice."
+      }
+    }
+  },
+
+  "notFound": {
+    "heading": "Page not found",
+    "body": "The page you're looking for doesn't exist or may have moved. Let's get you back on track.",
+    "home": "Back to home",
+    "contact": "Contact us"
+  },
+
+  "footer": {
+    "navAriaLabel": "Footer navigation",
+    "brandDesc": "Award-winning bespoke software development. Delivered intelligently, designed to unlock growth.",
+    "cols": {
+      "services": "Services",
+      "company": "Company",
+      "legal": "Legal"
+    },
+    "links": {
+      "services": {
+        "aiConsulting": "AI Consulting",
+        "softwareModernisation": "Software Development",
+        "discoveryWorkshops": "Strategic Consultancy",
+        "dataAnalytics": "Data and Analytics",
+        "viewAll": "View all Services"
+      },
+      "company": {
+        "aboutUs": "About Us",
+        "caseStudies": "Case Studies",
+        "careers": "Careers",
+        "blog": "Blog / Insights",
+        "contact": "Contact"
+      },
+      "legal": {
+        "legal": "Legal",
+        "ethics": "Ethics",
+        "privacy": "Privacy Policy",
+        "cookies": "Cookie Policy"
+      }
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "twitter": "X (Twitter)"
+    },
+    "legalLine1": "One Beyond Limited is a company registered in England and Wales. Registered number: 04126477. Registered office: 50-58 Victoria Road, Farnborough, Hampshire, GU14 7PG.",
+    "legalLine2": "Data Protection Act 2018. Registration Number Z1889314. VAT reg no: 824 1744 39",
+    "copyright": "© Copyright {{year}}. One Beyond"
+  }
+}

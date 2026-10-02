@@ -1,0 +1,124 @@
+.hero {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  /* Deep dark background with a subtle warm-cool gradient matching the live site feel */
+  background-color: var(--color-bg-dark);
+  background-image:
+    radial-gradient(ellipse at 70% 50%, rgba(197, 38, 143, 0.18) 0%, transparent 60%),
+    radial-gradient(ellipse at 20% 80%, rgba(107, 4, 204, 0.12) 0%, transparent 50%),
+    linear-gradient(135deg, #06070f 0%, #0d1020 50%, #06070f 100%);
+  overflow: hidden;
+}
+
+/* Dark gradient overlay — left side heavier */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(6, 7, 15, 0.82) 0%,
+    rgba(6, 7, 15, 0.5) 55%,
+    rgba(255, 255, 255, 0) 86%
+  );
+  z-index: 1;
+}
+
+/* Decorative geometric pattern (watermark effect matching live site) */
+.bgPattern {
+  position: absolute;
+  inset: 0;
+  background-image: url('/images/ob-bg-white.svg');
+  background-position: calc(100% + 20px) calc(100% + 20px);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  opacity: 0.08;
+  z-index: 1;
+  /* Fallback: subtle geometric accent when SVG is unavailable */
+  background-color: transparent;
+}
+
+.inner {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  padding-top: calc(var(--nav-height) + 4rem);
+  padding-bottom: 5rem;
+}
+
+.content {
+  max-width: 660px;
+}
+
+.label {
+  color: var(--color-accent) !important;
+  margin-bottom: 1rem;
+}
+
+.headline {
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 5vw, 3.75rem);
+  font-weight: 700;
+  line-height: 1.05;
+  margin-bottom: 1.5rem;
+}
+
+.headlineTeal {
+  color: var(--color-teal);
+  display: block;
+}
+
+.headlineWhite {
+  color: #fff;
+  display: block;
+}
+
+.subheadline {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.7;
+  margin-bottom: 2.5rem;
+  max-width: 540px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+/* Scroll indicator */
+.scrollIndicator {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  animation: bounce 2s ease-in-out infinite;
+}
+
+.scrollDot {
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(6px); }
+}
+
+@media (max-width: 768px) {
+  .inner {
+    padding-top: calc(var(--nav-height) + 3rem);
+  }
+
+  .actions {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

@@ -1,0 +1,88 @@
+/* 404 page */
+.section {
+  background-color: var(--color-bg-dark);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 6rem 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 60% 40%, rgba(197, 38, 143, 0.15) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.inner {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.errorCode {
+  font-family: var(--font-display);
+  font-size: clamp(5rem, 15vw, 10rem);
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+.heading {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.body {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.65);
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.actions .btn--outline {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.actions .btn--outline:hover {
+  background-color: #fff;
+  color: var(--color-dark);
+  border-color: #fff;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1.5rem;
+}
+
+.quickLink {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color var(--transition);
+}
+
+.quickLink:hover {
+  color: var(--color-primary);
+}
